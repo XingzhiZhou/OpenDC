@@ -1,3 +1,10 @@
 
 *.xml
 *.iml
+*.DESKTOP-U3OKD0G
+*.pt
+*.gz
+example/data/MNIST/raw/train-labels-idx1-ubyte
+example/data/MNIST/raw/train-images-idx3-ubyte
+example/data/MNIST/raw/t10k-labels-idx1-ubyte
+example/data/MNIST/raw/t10k-images-idx3-ubyte
